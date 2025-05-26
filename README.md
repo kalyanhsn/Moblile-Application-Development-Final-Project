@@ -28,3 +28,18 @@ A modern twist on the classic Tic-Tac-Toe game with player personalization and h
 ## 🛠️ Tech Stack  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Tools**: Git, GitHub  
+
+
+---
+
+## 🔗 Game History  
+Click *"History of Game before Playing"* in the app to explore Tic-Tac-Toe's evolution!  
+
+---
+
+## 📜 License  
+*(Optional: Add license (e.g., MIT) if open-sourcing)*  
+
+---
+
+*Developed as part of a University of Dayton course project.*  
